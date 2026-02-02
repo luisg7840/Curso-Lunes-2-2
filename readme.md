@@ -12,4 +12,4 @@
 
 `<h1> HOLA MARKDOWN</h1>`
 
-![IMAGEN](assets/images/cachorro-de-bichon-maltes.jpg)
+[![IMAGEN](assets/images/cachorro-de-bichon-maltes.jpg)](https://www.google.com/)
