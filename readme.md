@@ -6,5 +6,6 @@
     - Tipos de selectores
 ---
 ### MODULO 2 JAVA SCRIPT
-    - Sintaxis
-    - Variables **Tipos** __tipos__
+- Sintaxis
+- Variables ***Tipos*** __tipos__
+[Google](https://www.google.com/)
