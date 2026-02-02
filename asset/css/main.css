@@ -41,7 +41,8 @@ a{
 .quienes-somos{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    color: var(--white-font)
+    color: var(--white-font);
+    padding: 80px;
 }
 .img-responsive{
     width: 600px;/*unidades absolutas*/
