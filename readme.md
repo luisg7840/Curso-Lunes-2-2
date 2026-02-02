@@ -9,3 +9,7 @@
 - Sintaxis
 - Variables ***Tipos*** __tipos__
 [Google](https://www.google.com/)
+
+`<h1> HOLA MARKDOWN</h1>`
+
+![IMAGEN](assets/images/cachorro-de-bichon-maltes.jpg)
